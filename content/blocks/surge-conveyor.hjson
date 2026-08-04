@@ -5,8 +5,8 @@ category: distribution
 size: 1
 health: 500
 itemCapacity: 5
-speed: 0.20
-displayedSpeed: 20
+speed: 0.50
+displayedSpeed: 50
 requirements: [
   surge-alloy/5
   titanium/10
@@ -14,4 +14,4 @@ requirements: [
   lead/2
   metaglass/2
 ]
-research: conveyor
+research: thorium-conveyor
