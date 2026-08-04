@@ -5,7 +5,7 @@ category: distribution
 size: 1
 health: 25
 itemCapacity: 5
-speed: 0.24
+speed: 0.21
 displayedSpeed: 25
 requirements: [
   titanium/5
