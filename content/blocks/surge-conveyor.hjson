@@ -1,0 +1,17 @@
+type: Conveyor
+name: surge conveyor
+description: Transports items forward, the fastest and most durable of all.
+category: distribution
+size: 1
+health: 500
+itemCapacity: 5
+speed: 0.20
+displayedSpeed: 20
+requirements: [
+  surge-alloy/5
+  titanium/10
+  thorium/1
+  lead/2
+  metaglass/2
+]
+research: conveyor

@@ -5,7 +5,7 @@ category: distribution
 size: 1
 health: 50
 itemCapacity: 3
-speed: 0.07
+speed: 0.075
 displayedSpeed: 7
 requirements: [
   copper/2
