@@ -1,0 +1,14 @@
+type: Conveyor
+name: lead conveyor
+description: Transports items forward, faster then a basic conveyer.
+category: distribution
+size: 1
+health: 50
+itemCapacity: 3
+speed: 0.08
+displayedSpeed: 10
+requirements: [
+  copper/2
+  lead/2
+]
+research: conveyor
