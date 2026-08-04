@@ -1,0 +1,15 @@
+type: Conveyor
+name: thorium conveyor
+description: Transports items forward, faster then a titanium conveyer.
+category: distribution
+size: 1
+health: 250
+itemCapacity: 5
+speed: 0.12
+displayedSpeed: 15
+requirements: [
+  copper/2
+  lead/2
+  thorium/5
+]
+research: titanium-conveyor

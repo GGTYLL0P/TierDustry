@@ -1,0 +1,8 @@
+name: "TierDustry"
+displayName: "TierDustry."
+author: GGTYLLOP
+description: "What if mindustry items had tiers like how units have tiers. Well you get to do too much work"
+version: "1.0"
+minGameVersion: "159.7"
+dependencies: [ ]
+hidden: false
