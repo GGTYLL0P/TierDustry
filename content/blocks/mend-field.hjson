@@ -1,7 +1,7 @@
 type: MendProjector
 name: mend-field
 description: Repairs nearby blocks. Stronger and longer range than a normal mender.
-category: utility
+category: defense
 size: 2
 health: 500
 range: 100
