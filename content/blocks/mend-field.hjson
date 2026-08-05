@@ -1,13 +1,14 @@
 type: MendProjector
 name: mend-field
 description: Repairs nearby blocks. Stronger and longer range than a normal mender.
-category: defense
+category: utility
 size: 2
 health: 500
-range: 100
+range: 150
 reload: 250
 healPercent: 25
-consumePower: 2.0
+consumesPower: true
+consPower: 2.0
 requirements: [
   copper/100
   lead/100
